@@ -11,7 +11,7 @@ My goal? To transition into a career as a Machine Learning (ML) Software Enginee
 🗓️ I'll be completing my military service in August 2024, and I'm actively preparing for the next phase of my journey in the ML software industry.
 
 ## Here are some statistics
-### _Most used languages_
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDekhtyar&layout=donut&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### _WakaTime statistics_
