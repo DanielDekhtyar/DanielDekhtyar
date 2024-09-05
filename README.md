@@ -1,14 +1,21 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 ---
-👋 I'm Daniel.
-Currently, I'm serving in the Israeli Air Force and I'll be completing my military service in August 2024.
+Hi there! I'm Daniel 👋
 
-🚀 Throughout my military service, I've harnessed my programming skills to automate tasks and enhance efficiency. It's incredible to see how technology can make our work smarter and more efficient.
+I’m an AI enthusiast with a solid programming background, gained during my service in the Israeli Air Force where I automated tasks to enhance efficiency.
 
-🐍 Python is not just a programming language for me; it's my creative canvas. My next destination is the exciting world of ML, where I'm determined to apply my skills to create innovative, AI-driven software that pushes boundaries and shapes the future.
-My goal? To transition into a career as a Machine Learning (ML) Software Engineer and contribute to the ever-evolving field of AI.
+Currently, I’m deepening my expertise in AI through the 𝗔𝗜 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗼𝗿 - 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗳𝗼𝗿 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 course at the 𝗧𝗲𝗰𝗵𝗻𝗶𝗼𝗻 - 𝗦𝗰𝗵𝗼𝗼𝗹 𝗼𝗳 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗶𝗻𝗴 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻. This intensive program covers key areas such as machine learning, deep learning, and data analysis, with a hands-on AI project using Python.
 
-🗓️ I'll be completing my military service in August 2024, and I'm actively preparing for the next phase of my journey in the ML software industry.
+💡 Skills & Expertise:
+
+• 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴: Proficient in Python, with a focus on AI, automation, and advanced techniques such as multi-processing.  
+• 𝗔𝗜 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Experienced in developing and applying algorithms, including supervised and unsupervised learning methods.  
+• 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Knowledgeable in data sources, ETL processes, and visualization tools.  
+• 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Practical experience in end-to-end AI project development, including data preparation and model implementation.  
+
+I’m aiming to transition into a Machine Learning Software Engineer role and plan to pursue a Bachelor's degree in Computer Science at the Technion next year. I’m excited to connect with AI professionals and explore new opportunities.
+
+<br>
 
 ## Here are some statistics
 
