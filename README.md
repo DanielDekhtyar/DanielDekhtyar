@@ -13,7 +13,7 @@ Currently, I’m deepening my expertise in AI through the 𝗔𝗜 𝗔𝗰𝗰�
 • 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Knowledgeable in data sources, ETL processes, and visualization tools.  
 • 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Practical experience in end-to-end AI project development, including data preparation and model implementation.  
 
-I’m aiming to transition into a Machine Learning Software Engineer role and plan to pursue a Bachelor's degree in Computer Science at the Technion next year. I’m excited to connect with AI professionals and explore new opportunities.
+I’m aiming to transition into a Machine Learning Software Engineer role and plan to pursue a Bachelor's degree in Computer Science next year. I’m excited to connect with AI professionals and explore new opportunities.
 
 <br>
 
