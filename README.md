@@ -25,7 +25,7 @@ I’m aiming to transition into a Machine Learning Software Engineer role and pl
 
 [![wakatime](https://wakatime.com/badge/user/018af256-e97d-440d-accc-c9b9bc342149.svg)](https://wakatime.com/@018af256-e97d-440d-accc-c9b9bc342149)  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDekhtyar&layout=compact&hide=JSON,Ezhil,git%20config,Text,Bash,Other)](https://github.com/anuraghazra/github-readme-stats)  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielDekhtyar&layout=compact&hide=JSON,Ezhil,git%20config,Text,Bash,reStructuredText,Other)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🌎 You can find me here 
 - [GitHub](https://github.com/DanielDekhtyar)
